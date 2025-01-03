@@ -1,1 +1,3 @@
-# EDA_AtliQ_Hotels_Data_Analysis_Project
+# AtliQ Hotels Data Analysis Project
+
+AtliQ Hotel Data Analysis project is dedicated to thoroughly examining the dataset to uncover meaningful insights. The step involves data summarization, handling missing or inconsistent values, and creating visualizations to highlight key metrics such as booking trends, seasonal revenue fluctuations, occupancy rates, and customer demographics. By leveraging Python libraries like Pandas and Matplotlib, the EDA provides a clear understanding of the data, identifies outliers and correlations, and lays the foundation for deeper analysis and informed decision-making.
